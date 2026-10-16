@@ -2,8 +2,6 @@
   <img src="Banner_Overview.svg" width=100%>                                                         
 </p>
 
-
-
 <!-- Badge -->
 <p align=center>
   <!-- Visitor Counter (laobi badge) -->
@@ -25,34 +23,27 @@
 </p>
 
 <!-- Main Content -->
-<h2><strong>Stack & Software</strong></h2>
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" text-decoration="none"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a>
+<h1 align="center"><strong>Stack & Software</strong></h2>
+<!-- Language -->
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" text-decoration="none"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> &ensp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> &ensp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> &ensp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> &ensp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a></p>
+</p>
+
+<!-- Software -->
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/vscode" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="40" height="40"/> </a> &ensp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> &ensp;
+</p>
 
 <br>
 
-<h2 align="right"><strong>Contact Me On</strong></h2>
-<p align="right">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/github" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=github" alt="github" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/linkedin" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/instagram" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=instagram" alt="instagram" width="40" height="40"/> </a>
-
-<!--
-**ChristantoS/ChristantoS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Social Media -->
+<h1 align="center"><strong>Communicate & Collab</strong></h2>
+<p align="center">
+  <a href="https://github.com/ChristantoS" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=github" alt="github" width="40" height="40"/> </a>  &emsp;
+  <a href="linkedin.com/in/todo-christanto" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" width="40" height="40"/> </a>  &emsp;
+  <a href="instagram.com/christanto.ss" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=instagram" alt="instagram" width="40" height="40"/> </a>  &emsp;

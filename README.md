@@ -1,17 +1,8 @@
 <p align=center>
-  <pre>
-                          ______ __           _        __                 __         _____
-                         / ____// /_   _____ (_)_____ / /_ ____ _ ____   / /_ ____  / ___/
-                        / /    / __ \ / ___// // ___// __// __ `// __ \ / __// __ \ \__ \ 
-                       / /___ / / / // /   / /(__  )/ /_ / /_/ // / / // /_ / /_/ /___/ / 
-                       \____//_/ /_//_/   /_//____/ \__/ \__,_//_/ /_/ \__/ \____//____/
-  
-  </pre>                                                           
+  <img src="Banner_Overview.svg" width=100%>                                                         
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=64FFDA&center=true&vcenter=true&width=600&height=70&lines=Web+Development;Cybersecurity" alt="ASCII Header" />
-</p>
+
 
 <!-- Badge -->
 <p align=center>
